@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="display_info">Display Info</string>
+    <string name="number_of_faces">Number Of Faces</string>
+    <string name="Camera2Vision">Camera2Vision</string>
+    <string name="FaceTracker">Camera2Vision</string>
+    <string name="Splash">Camera2Vision</string>
+    <string name="distance">distance</string>
+    <string name="no_faces_found">No faces found</string>
+    <string name="stop">Stop</string>
+    <string name="textview">TextView</string>
+    <string name="select_item">Select Item</string>
+    <string name="_0">0</string>
+    <string name="tap_me">Tap Me</string>
+    <string name="tap_to_start">Tap to Start</string>
+</resources>
